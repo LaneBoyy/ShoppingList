@@ -4,5 +4,7 @@
     <string name="hint_et_name">Name:</string>
     <string name="hint_et_count">Count:</string>
     <string name="btn_text_save">save</string>
+    <string name="error_input_count">Invalid count</string>
+    <string name="error_input_name">Invalid name</string>
 
 </resources>
